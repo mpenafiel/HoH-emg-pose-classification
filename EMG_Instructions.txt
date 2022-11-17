@@ -1,0 +1,7 @@
+EMG Hand Calibrations
+
+This is the document that will be displayed on the window. This will provide primary instructions for the patient but will be easy to display with low storage.
+
+In this paragraph, basic information can be displayed so that users understand the functions of the application.
+
+DO NOT CLOSE THE WINDOW WHILE DATA IS BEING COLLECTED
